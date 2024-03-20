@@ -1,0 +1,208 @@
+[
+    {
+        "name":"Amit Albaz",
+        "year":"2.5",
+        "salary":"35",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/WkFRJ8X/img7.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Markas ilab",
+        "year":"2.5",
+        "salary":"40",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/PcMnv2f/img6.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Jakob jabil",
+        "year":"3.0",
+        "salary":"45",
+        "type":"rejected",
+        "gender":"male",
+        "img":"https://i.ibb.co/JdjZ3BR/img5.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Mariya killabo",
+        "year":"4.5",
+        "salary":"60",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/LS1HCQr/img4.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Marko Sabila",
+        "year":"4.0",
+        "salary":"60",
+        "type":"rejected",
+        "gender":"male",
+        "img":"https://i.ibb.co/7vxq6R3/img3.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Sakib Hossin",
+        "year":"1.5",
+        "salary":"25",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/YBMD6GX/img1.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Rakib Mia",
+        "year":"3.0",
+        "salary":"35",
+        "type":"rejected",
+        "gender":"male",
+        "img":"https://i.ibb.co/SfxDw4t/img2.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Rahul Islam",
+        "year":"2.0",
+        "salary":"20",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/PcMnv2f/img6.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Riaz Shikder",
+        "year":"2",
+        "salary":"30",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/LS1HCQr/img4.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Rony Hossain",
+        "year":"5.0",
+        "salary":"55",
+        "type":"rejected",
+        "gender":"male",
+        "img":"https://i.ibb.co/PcMnv2f/img6.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Fahim Mia",
+        "year":"2.5",
+        "salary":"30",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/YBMD6GX/img1.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Somon Uddian",
+        "year":"4.5",
+        "salary":"45",
+        "type":"rejected",
+        "gender":"male",
+        "img":"https://i.ibb.co/WkFRJ8X/img7.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Romjan Mia",
+        "year":"1.2",
+        "salary":"12",
+        "type":"Shortlisted",
+        "gender":"male",
+        "img":"https://i.ibb.co/SfxDw4t/img2.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Mehidul Hossain",
+        "year":"3.5",
+        "salary":"35",
+        "type":"rejected",
+        "gender":"female",
+        "img":"https://i.ibb.co/JdjZ3BR/img5.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Emon Mia",
+        "year":"2.5",
+        "salary":"20",
+        "type":"Inprocess",
+        "gender":"female",
+        "img":"https://i.ibb.co/LS1HCQr/img4.png",
+        "date":"18-03-24"
+    },
+    {
+        "name":"Bojoy Hossan",
+        "year":"2.5",
+        "salary":"25",
+        "type":"Inprocess",
+        "gender":"female",
+        "img":"https://i.ibb.co/YBMD6GX/img1.png",
+        "date":"18-03-24"
+        
+    },
+    {
+        "name":"Imtu Uddin",
+        "year":"4.5",
+        "salary":"65",
+        "type":"Inprocess",
+        "gender":"female",
+        "img":"https://i.ibb.co/WkFRJ8X/img7.png",
+        "date":"18-03-24"
+        
+    },
+    {
+        "name":"Jack Rong",
+        "year":"3.5",
+        "salary":"38",
+        "type":"Inprocess",
+        "gender":"female",
+        "img":"https://i.ibb.co/7vxq6R3/img3.png",
+        "date":"18-03-24"
+        
+    },
+    {
+        "name":"Rimon Hossan",
+        "year":"3.5",
+        "salary":"38",
+        "type":"OnHold",
+        "gender":"female",
+        "img":"https://i.ibb.co/PcMnv2f/img6.png",
+        "date":"18-03-24"
+        
+    },
+    {
+        "name":"Akram Mia",
+        "year":"2.5",
+        "salary":"38",
+        "type":"OnHold",
+        "gender":"female",
+        "img":"https://i.ibb.co/SfxDw4t/img2.png",
+        "date":"18-03-24"
+        
+    },
+    {
+        "name":"Rana Mia",
+        "year":"3.5",
+        "salary":"48",
+        "type":"OnHold",
+        "gender":"female",
+        "img":"https://i.ibb.co/YBMD6GX/img1.png",
+        "date":"18-03-24"
+        
+    },
+    {
+        "name":"Jamal Hossain",
+        "year":"4.5",
+        "salary":"88",
+        "type":"OnHold",
+        "gender":"female",
+        "img":"https://i.ibb.co/WkFRJ8X/img7.png",
+        "date":"18-03-24"
+        
+    }
+    
+]

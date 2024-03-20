@@ -1,0 +1,18 @@
+.gender_bar{
+    position: relative;
+    width:160px;
+    height:160px;
+    border-radius:50%;
+    background:conic-gradient(#11998E 250deg, #E7B860 0deg);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.gender_bar::after{
+    position: absolute;
+    content:"";
+    width:120px;
+    height:120px;
+    background-color:#fff;
+    border-radius:50%;
+}

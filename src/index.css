@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Roboto", sans-serif;
+}
+
+@layer components {
+  .menulink{
+    @apply flex items-center space-x-3 text-[#7B7B7B]  hover:text-[#fff] text-lg font-medium hover:bg-[#11998E] rounded-md py-2 px-4 duration-300;
+  }
+}
+.active{
+  color:red;
+}

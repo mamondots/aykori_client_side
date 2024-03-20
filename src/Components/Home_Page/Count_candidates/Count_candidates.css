@@ -1,0 +1,43 @@
+.circle_bar,.circle_bar2,.circle_bar3{
+    position: relative;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background:conic-gradient(#11998E 250deg, #E0EDEA 0deg);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.circle_bar2{
+    background:conic-gradient(#E7B860 250deg, #E0EDEA 0deg);
+}
+.circle_bar3{
+    background:conic-gradient(#FF6A49 250deg, #E0EDEA 0deg);
+}
+.circle_bar::after{
+    position: absolute;
+    content:"";
+    width:60px;
+    height:60px;
+    background-color:#fff;
+    border-radius:50%;
+}
+.circle_bar2::after{
+    position: absolute;
+    content:"";
+    width:60px;
+    height:60px;
+    background-color:#fff;
+    border-radius:50%;
+}
+.circle_bar3::after{
+    position: absolute;
+    content:"";
+    width:60px;
+    height:60px;
+    background-color:#fff;
+    border-radius:50%;
+}
+.value{
+    z-index:10;
+}
